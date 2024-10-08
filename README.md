@@ -1,6 +1,6 @@
 # Flask API CRUD Project
 
-Esta API foi desenvolvida utilizando **Flask** e implementa um **CRUD completo** (Create, Read, Update, Delete) para gerenciar produtos. A API permite criar, listar, atualizar e deletar produtos, fornecendo informações como **nome**, **produto** e **valor**.
+Esta API foi desenvolvida utilizando **Flask** e implementa um **CRUD completo** (Create, Read, Update, Delete) para gerenciar produtos de um delivery. A API permite criar, listar, atualizar e deletar produtos, fornecendo informações como **nome**, **produto** e **valor**.
 
 ## Funcionalidades
 
